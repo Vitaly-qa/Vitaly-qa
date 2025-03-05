@@ -24,6 +24,5 @@
 
 ### Мои контакты:
 
-
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vitalikkuzmin150@gmail.com)](mailto:tarabne@gmail.com)
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/Vitaly_55555)
